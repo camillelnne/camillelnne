@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
 - **[Proxima](https://github.com/ProximaEPFL/proxima)**  
   Social mobile app developed in Dart and Flutter. Users must visit specific physical locations to view geotagged posts.
 
