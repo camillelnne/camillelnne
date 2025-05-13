@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   JavaFX desktop application using OpenStreetMap. Enables users to report sustainability-related issues on a university campus.
   
 ### 📊 Data Analysis
-- **[Badaboum](https://github.com/epfl-ada/ada-2024-project-badaboum)** *(ongoing)*  
+- **[Badaboum](https://github.com/epfl-ada/ada-2024-project-badaboum)**
   Analyzes alignment between Oscar wins and audience opinion using IMDb and CMU data. Explores trends, biases, and the impact of "Oscar bump" on film ratings.
 
 ### 🌐 Web & Visualization
