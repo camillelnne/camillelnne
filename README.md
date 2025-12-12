@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **camillelnne/camillelnne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,15 +21,18 @@ Here are some ideas to get you started:
 
 - **[EcoCampus](https://github.com/camillelnne/EcoCampus)**  
   JavaFX desktop application using OpenStreetMap. Enables users to report sustainability-related issues on a university campus.
+
+## ⚙️ Agentic Systems
+- **[venice-agents](https://github.com/camillelnne/venice-agents)**  
+  Agent-based simulation of daily life in 18th-century Venice, where LLM-driven merchant personas navigate a historical city map following data-derived routines.
   
 ### 📊 Data Analysis
 - **[Badaboum](https://github.com/epfl-ada/ada-2024-project-badaboum)**
   Analyzes alignment between Oscar wins and audience opinion using IMDb and CMU data. Explores trends, biases, and the impact of "Oscar bump" on film ratings.
 
 ### 🌐 Web & Visualization
-- **[Fresk Frontend](https://github.com/EPFL-Fresk/fresk-frontend)** *(ongoing)*  
-  Interactive web app visualizing EPFL student associations as a graph. Aims to enhance navigation and transparency within the university ecosystem.
-
+- **[Fresk Frontend](https://github.com/EPFL-Fresk/fresk-frontend)**
+  Interactive web app visualizing EPFL student associations as a graph. Aims to enhance navigation and transparency within the university ecosystem. Flutter
 
 ### ⚙️ Automation & Utilities
 - **[mail2slack](https://github.com/camillelnne/mail2slack)**  
