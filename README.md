@@ -1,40 +1,33 @@
-<!--
-**camillelnne/camillelnne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I build and evaluate AI systems, with a focus on LLM agents, retrieval, and computer vision.**
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Spider-Web — multi-agent data transformation](https://github.com/TheTexanCodeur/ELT-Bench/tree/spider-web/agents/spider-web)
 
-## 🚀 Projects
+Co-developed a modular system for planning, generating, verifying, and correcting SQL/dbt transformations. Evaluated on 50 ELT-Bench pipelines, increasing table-level success from a 1.0% baseline to 7.9%.
 
-### 🧰 Software Development
-- **[Proxima](https://github.com/ProximaEPFL/proxima)**  
-  Social mobile app developed in Dart and Flutter. Users must visit specific physical locations to view geotagged posts.
+**Python · LLM agents · SQL · dbt · Snowflake**
 
-- **[EcoCampus](https://github.com/camillelnne/EcoCampus)**  
-  JavaFX desktop application using OpenStreetMap. Enables users to report sustainability-related issues on a university campus.
+### [From Canvas to Point Cloud](https://github.com/sophiaargh/code-from-canvas-to-pointcloud)
 
-## ⚙️ Agentic Systems
-- **[venice-agents](https://github.com/camillelnne/venice-agents)**  
-  Agent-based simulation of daily life in 18th-century Venice, where LLM-driven merchant personas navigate a historical city map following data-derived routines.
-  
-### 📊 Data Analysis
-- **[Badaboum](https://github.com/epfl-ada/ada-2024-project-badaboum)**
-  Analyzes alignment between Oscar wins and audience opinion using IMDb and CMU data. Explores trends, biases, and the impact of "Oscar bump" on film ratings.
+Investigated 3D reconstruction from artistic imagery. Implemented destylization experiments, ControlNet parameter sweeps, and DINO-based similarity evaluation to compare approaches.
 
-### 🌐 Web & Visualization
-- **[Fresk Frontend](https://github.com/EPFL-Fresk/fresk-frontend)**
-  Interactive web app visualizing EPFL student associations as a graph. Aims to enhance navigation and transparency within the university ecosystem. Flutter
+**Python · Computer vision · ControlNet · Model evaluation**
 
-### ⚙️ Automation & Utilities
-- **[mail2slack](https://github.com/camillelnne/mail2slack)**  
-  Python script that retrieves unread emails and forwards them to a Slack channel via Incoming Webhook. Built to improve responsiveness at Fix n'Replace.
+### [Venice Agents](https://github.com/camillelnne/venice-agents)
 
+Historical simulation combining archival data, graph-based navigation, and LLM-driven merchant personas. Contributions include persona generation, points-of-interest processing, and multi-agent detour behavior.
+
+**Python · FastAPI · TypeScript · Next.js · LLM agents**
+
+### [Xplore Knowledge Assistant](https://github.com/EPFLXplore/XRE_Xplore_ChatBot)
+
+Built a retrieval-augmented chatbot over technical documentation from Notion and Slack. Contributions include a custom Notion loader and persistent reporting of incorrect answers.
+
+**Python · RAG · Streamlit · Chroma · SQLite**
+
+### [Proxima](https://github.com/ProximaEPFL/proxima)
+
+Co-developed a social Android app where users visit physical locations to discover geotagged posts. Built in a seven-person Agile team, with Firebase integration, GPS-based access, and offline support.
+
+**Dart · Flutter · Firebase · Android**
